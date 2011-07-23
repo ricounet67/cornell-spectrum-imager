@@ -1,7 +1,13 @@
+#Home
+= Cornell Spectrum Imager Documentation =
+
+== About ==
 Cornell Spectrum Imager is a free, open-source software tool for spectral analysis
 
-= Details =
+
+== #FrequentlyAskedQuestions ==
+
+
+== More Details ==
 
 Please Visit: http://research2.engineering.cornell.edu/muller/csi.cfm
-
-= #FrequentlyAskedQuestions =
