@@ -7,6 +7,8 @@ Cornell Spectrum Imager is a free, open-source software tool for spectral analys
 
 == FrequentlyAskedQuestions ==
 
+== Acknowledgments ==
+Funded by DOE BES Award #DE-SCOO02334 (PC) and NSF NSEC #EEC-0117770, 06465470 (RMH). 
 
 == More Details ==
 
