@@ -1,4 +1,4 @@
-#Summary Home
+#Home
 = Cornell Spectrum Imager Documentation =
 
 == About ==
