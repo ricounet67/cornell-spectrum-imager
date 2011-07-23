@@ -5,7 +5,7 @@
 Cornell Spectrum Imager is a free, open-source software tool for spectral analysis
 
 
-== #FrequentlyAskedQuestions ==
+== FrequentlyAskedQuestions ==
 
 
 == More Details ==
