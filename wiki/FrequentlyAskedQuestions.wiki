@@ -1,13 +1,13 @@
 #FrequentlyAskedQuestions
 = Introduction =
 
-Add your content here.
 
 
-= Details =
+
+=Importing and Exporting Data=
 
 ==How do I save a spectrum image?==
 A Spectrum Image is a calibrated image stack.  To avoid losing information, we recommend saving it as a TIFF file.  From the ImageJ menu, select `FILE..Save As..Tiff..`.  The file can now be read back into ImageJ.   Digital Micrograph can also read the file, but will lose the calibration data.
 
 ==How do I read a spectrum image back into Digital Micrograph?==
-Gatan has not yet chosen to disclose the internal format of  .dm3 files.  Until they do, we recommend saving your spectrum image as Tiff or Raw.  Both can then be read (slowly) into Digital Micrograph, where they will appear as image stacks.  You will then have to select from the DM menu `Spectrum..Convert Data to..EELS', and then calibrate the energy axis.
+Gatan has not yet chosen to disclose the internal format of  .dm3 files.  Until they do, we recommend saving your spectrum image as Tiff or Raw.  Both can then be read (slowly) into Digital Micrograph, where they will appear as image stacks.  You will then have to select from the DM menu `Spectrum..Convert Data to..EELS`, and then calibrate the energy axis.
