@@ -2,7 +2,7 @@
 = Cornell Spectrum Imager Documentation =
 
 == About ==
-Cornell Spectrum Imager is a free, open-source software tool for spectral analysis
+Cornell Spectrum Imager is a free, open-source software tool for spectral analysis written by Paul Cueva, Robert Hovden and David Muller from Cornell's School of Applied and Engineering Physics.
 
 
 == FrequentlyAskedQuestions ==
