@@ -12,3 +12,6 @@ A Spectrum Image is a calibrated image stack.  To avoid losing information, we r
 
 ==How do I read a spectrum image back into Digital Micrograph?==
 Gatan has not yet chosen to disclose the internal format of  .dm3 files.  Until they do, we recommend saving your spectrum image as Tiff or Raw.  Both can then be read (slowly) into Digital Micrograph, where they will appear as image stacks.  You will then have to select from the DM menu `Spectrum..Convert Data to..EELS`, and then calibrate the energy axis.
+
+==How do I save a single spectrum? ==
+Click on the `Save...` Button below the plot in the CSI:Cornell Spectrum Imager Window.  This will save the energy axis and all plotted lines as a tab-separated text file.
