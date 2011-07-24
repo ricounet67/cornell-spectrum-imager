@@ -7,6 +7,9 @@
 
 =Importing and Exporting Data=
 
+==How do I read a Gatan `.dm3` or FEI/Emispec `.ser` file?==
+Click on the `Open Spectrum` Icon on the ImageJ CSI toolset bar (the yellow folder icon).  You can also use the plugins directly at the menu `Plugins..CSI..` if you have another toolset active.  At present, ImageJ's own `File..Open` menu is not smart enough to read the Spectrum Image versions of Gatan or FEI files.  
+
 ==How do I save a spectrum image?==
 A Spectrum Image is a calibrated image stack.  To avoid losing information, we recommend saving it as a TIFF file.  From the ImageJ menu, select `FILE..Save As..Tiff..`.  The file can now be read back into ImageJ.   Digital Micrograph can also read the file, but will lose the calibration data.
 
