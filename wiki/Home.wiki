@@ -3,7 +3,9 @@
 
 ==Download==
 [http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.dmg Download ImageJ and CSI for Mac]
+
 [http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.exe Download ImageJ and CSI for Windows]
+
 [http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.4.zipDownload only the plugins]
 
 == About ==
