@@ -4,9 +4,13 @@
 ==Download==
 [http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.dmg Download ImageJ and CSI for Mac]
 
-[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.exe Download ImageJ and CSI for Windows]
+[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.exe Download ImageJ and CSI for Windows]   (on Windows 7 or Vista, don't install in 'Program Files', but a directory that has write permissions, like 'Documents'.
 
-[http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.4.zipDownload only the plugins]
+[http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.4.zip Download only the plugins]
+
+
+You should also increase the allocated memory after installing by selecting 'Edit..Options..Memory and Threads'
+
 
 == About ==
 Cornell Spectrum Imager is a free, open-source software tool for spectral analysis written by Paul Cueva, Robert Hovden and David Muller from Cornell's School of Applied and Engineering Physics.
