@@ -1,6 +1,11 @@
 #Home
 = Cornell Spectrum Imager Documentation =
 
+==Download==
+[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.dmg Download ImageJ and CSI for Mac]
+[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.exe Download ImageJ and CSI for Windows]
+[http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.4.zipDownload only the plugins]
+
 == About ==
 Cornell Spectrum Imager is a free, open-source software tool for spectral analysis written by Paul Cueva, Robert Hovden and David Muller from Cornell's School of Applied and Engineering Physics.
 
@@ -12,4 +17,4 @@ Funded by DOE BES Award #DE-SCOO02334 (PC) and NSF NSEC #EEC-0117770, 06465470 (
 
 == More Details ==
 
-Please Visit: http://research2.engineering.cornell.edu/muller/csi.cfm
+Please Visit: http://research.engineering.cornell.edu/muller/csi.cfm
