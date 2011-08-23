@@ -28,4 +28,4 @@ We are using [http://www.ujmp.org/ UJMP]'s Singular  Value Decomposition for our
 
 ==I click on a button and nothing happens==
 
-ImageJ is likely out of memory, and not able to add new windows.  You should increase the amount of memory available to imageJ by selecting [http://rsb.info.nih.gov/ij/docs/menus/edit.html#memory Edit>Options>Memory], increasing the allocated memory and restarting the program.  For very large data sets be sure to use the 64-bit version (.e.g ImageJ64.app on the Mac), which is found in the ImageJ program folder.
+ImageJ is likely out of memory, and not able to add new windows.  You should increase the amount of memory available to imageJ by selecting [http://rsb.info.nih.gov/ij/docs/menus/edit.html#memory Edit>Options>Memory], increasing the allocated memory and restarting the program.  For very large data sets be sure to use the 64-bit version (e.g ImageJ64.app on the Mac), which is found in the ImageJ program folder.
