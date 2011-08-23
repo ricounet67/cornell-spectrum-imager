@@ -17,6 +17,13 @@ Cornell Spectrum Imager is a free, open-source software tool for spectral analys
 
 
 == FrequentlyAskedQuestions ==
+[FrequentlyAskedQuestions#Importing_and_Exporting_Data Importing and Exporting Data]
+
+[FrequentlyAskedQuestions#Principal_Components_Analysis_(PCA) Principal Components Analysis (PCA)]
+
+[FrequentlyAskedQuestions#General_Troubleshooting General Troubleshooting]
+
+
 
 == Acknowledgments ==
 Funded by DOE BES Award #DE-SCOO02334 (PC) and NSF NSEC #EEC-0117770, 06465470 (RMH). 
