@@ -17,11 +17,11 @@ Cornell Spectrum Imager is a free, open-source software tool for spectral analys
 
 
 == <font color='gray'>FrequentlyAskedQuestions </font>==
-[FrequentlyAskedQuestions#Importing_and_Exporting_Data Importing and Exporting Data]
+[FrequentlyAskedQuestions#Importing_and_Exporting_Data - Importing and Exporting Data]
 
-[FrequentlyAskedQuestions#Principal_Components_Analysis_(PCA) Principal Components Analysis (PCA)]
+[FrequentlyAskedQuestions#Principal_Components_Analysis_(PCA) - Principal Components Analysis (PCA)]
 
-[FrequentlyAskedQuestions#General_Troubleshooting General Troubleshooting]
+[FrequentlyAskedQuestions#General_Troubleshooting - General Troubleshooting]
 
 
 
