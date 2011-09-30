@@ -1,0 +1,4 @@
+#This page indexes any papers that acknowledge use of CSI in their work.
+
+= Papers =
+http://pubs.acs.org/doi/abs/10.1021/nl202219w
