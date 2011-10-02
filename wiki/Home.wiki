@@ -28,7 +28,7 @@ Cornell Spectrum Imager is a free, open-source software tool for spectral analys
 A list of papers that have used CSI to process data.  If you use CSI, email a link to your paper and we'll add it to the list.
 
 ==<font color='gray'> Known Bugs</font>==
-A list of [[http://code.google.com/p/cornell-spectrum-imager/issues/list known bugs] - that will hopefully be fixed soon.  If you find a bug, please report it  [http://code.google.com/p/cornell-spectrum-imager/issues/list here] or email us.
+A list of [http://code.google.com/p/cornell-spectrum-imager/issues/list known bugs] - that will hopefully be fixed soon.  If you find a bug, please report it  [http://code.google.com/p/cornell-spectrum-imager/issues/list here] or email us.
 
 == <font color='gray'>Acknowledgments </font>==
 Funded by DOE BES Award #DE-SCOO02334 (PC) and NSF NSEC #EEC-0117770, 06465470 (RMH). 
