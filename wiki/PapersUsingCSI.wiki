@@ -1,4 +1,4 @@
 #This page indexes any papers that acknowledge use of CSI in their work.
 
 = Papers =
-http://pubs.acs.org/doi/abs/10.1021/nl202219w
+Aline Cerf, Thomas Alava, Robert A Barton, Harold G Craighead, "Transfer-Printing of Single DNA Molecule Arrays on Graphene for High-Resolution Electron Imaging and Analysis", _Nanoletters_, (2011), http://pubs.acs.org/doi/abs/10.1021/nl202219w
