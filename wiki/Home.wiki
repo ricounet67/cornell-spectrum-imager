@@ -24,6 +24,8 @@ Cornell Spectrum Imager is a free, open-source software tool for spectral analys
 [FrequentlyAskedQuestions#General_Troubleshooting - General Troubleshooting]
 
 
+==<font color='gray'> [PapersUsingCSI]</font>==
+A list of papers that have used CSI to process data.  If you use CSI, email a link to your paper and we'll add it to the list.
 
 == <font color='gray'>Acknowledgments </font>==
 Funded by DOE BES Award #DE-SCOO02334 (PC) and NSF NSEC #EEC-0117770, 06465470 (RMH). 
