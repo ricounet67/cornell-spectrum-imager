@@ -1,4 +1,8 @@
 #This page indexes any papers that acknowledge use of CSI in their work.
 
 = Papers =
+"Data Processing For Atomic Resolution EELS", Paul Cueva, Robert Hovden, Julia A. Mundy, Huolin L. Xin, David A. Muller - [http://arxiv.org/abs/1112.3059 Preprint]
+
 Aline Cerf, Thomas Alava, Robert A Barton, Harold G Craighead, "Transfer-Printing of Single DNA Molecule Arrays on Graphene for High-Resolution Electron Imaging and Analysis", _Nanoletters_, (2011), http://pubs.acs.org/doi/abs/10.1021/nl202219w
+
+'Cornell Spectrum Imager: Open Source Spectrum Analysis with ImageJ', Paul Cueva, Robert Hovden, and David A. Muller, Microscopy and Microanalysis, Volume 17, Supplement S1, Jul 2011
