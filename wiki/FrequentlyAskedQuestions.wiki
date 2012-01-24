@@ -14,7 +14,7 @@ Click on the `Open Spectrum` Icon on the ImageJ CSI toolset bar (the yellow fold
 A Spectrum Image is a calibrated image stack.  To avoid losing information, we recommend saving it as a TIFF file.  From the ImageJ menu, select `FILE..Save As..Tiff..`.  The file can now be read back into ImageJ.   Digital Micrograph can also read the file, but will lose the calibration data.
 
 ==<font color='gray' >How do I read a spectrum image back into Digital Micrograph?</font>==
-Gatan has not yet chosen to disclose the internal format of  .dm3 files.  Until they do, we recommend saving your spectrum image as Tiff or Raw.  Both can then be read (slowly) into Digital Micrograph, where they will appear as image stacks.  You will then have to select from the DM menu `Spectrum..Convert Data to..EELS`, and then calibrate the energy axis.
+Gatan has not yet chosen to disclose the internal format of  .dm3 files.  Until they do, we recommend saving your spectrum image as Tiff.  This can then be read (slowly) into Digital Micrograph, where they will appear as image stacks.  You will then have to select from the DM menu `Spectrum..Convert Data to..EELS`, and then calibrate the energy axis.
 
 ==<font color='gray' >How do I save a single spectrum?</font> ==
 Click on the `Save...` Button below the plot in the CSI:Cornell Spectrum Imager Window.  This will save the energy axis and all plotted lines as a tab-separated text file.
