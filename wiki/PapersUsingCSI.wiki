@@ -1,6 +1,10 @@
 #This page indexes any papers that acknowledge use of CSI in their work.
 
 = Papers =
+
+A great paper detailing artifacts found in PCA smoothed data and also references work done with CSI:
+"Statistical consequences of applying a PCA noise filter on EELS spectrum images", Stijn Lichtert, Jo Verbeeck, Ultramicroscopy (2012) http://www.sciencedirect.com/science/article/pii/S0304399112002483
+
 "Data Processing For Atomic Resolution EELS", Paul Cueva, Robert Hovden, Julia A. Mundy, Huolin L. Xin, David A. Muller, Microscopy & Microanalysis (2012) doi:10.1017/S1431927612000244 - [http://arxiv.org/abs/1112.3059 Preprint] [http://journals.cambridge.org/abstract_S1431927612000244 Article]
 
 Aline Cerf, Thomas Alava, Robert A Barton, Harold G Craighead, "Transfer-Printing of Single DNA Molecule Arrays on Graphene for High-Resolution Electron Imaging and Analysis", _Nanoletters_, (2011), http://pubs.acs.org/doi/abs/10.1021/nl202219w
