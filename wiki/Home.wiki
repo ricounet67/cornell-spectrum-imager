@@ -2,11 +2,11 @@
 = Cornell Spectrum Imager Documentation =
 
 ==<font color='gray'> Download </font>==
-[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.2.dmg Download ImageJ and CSI for Mac]
+[http://cornell-spectrum-imager.googlecode.com/files/CSI%20v1.5.dmg Download ImageJ and CSI for Mac]
 
-[http://cornell-spectrum-imager.googlecode.com/files/ImageJ+CSI_v1.4.2.exe Download ImageJ and CSI for Windows]   (on Windows 7 or Vista, don't install in 'Program Files', but a directory that has write permissions, like 'Documents'.
+[http://cornell-spectrum-imager.googlecode.com/files/CSI%20v1.5%20%2864bit%29.exe Download ImageJ and CSI for Windows]   (on Windows 7 or Vista, don't install in 'Program Files', but a directory that has write permissions, like 'Documents'.
 
-[http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.4.2.rar Download only the plugins]
+[http://cornell-spectrum-imager.googlecode.com/files/CSI_v1.5%20source.zip Download only the plugins]
 
 
 You should also increase the allocated memory after installing by selecting 'Edit..Options..Memory and Threads'
