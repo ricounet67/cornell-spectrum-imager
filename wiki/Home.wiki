@@ -45,4 +45,4 @@ Detailed discussion of the software with particular application to EELS analysis
 
 [http://rsb.info.nih.gov/ij/docs/guide/user-guide.pdf ImageJ User Guide]
 
-Also Visit: http://research.engineering.cornell.edu/muller/csi.cfm
+Also Visit: [http://research.engineering.cornell.edu/muller/csi.cfm The Muller Group Home Page]
