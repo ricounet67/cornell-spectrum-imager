@@ -34,7 +34,7 @@ A list of papers that have used CSI to process data.  If you use CSI, email a li
 A list of [http://code.google.com/p/cornell-spectrum-imager/issues/list known bugs] - that will hopefully be fixed soon.  If you find a bug, please report it  [http://code.google.com/p/cornell-spectrum-imager/issues/list here] or email us.
 
 == <font color='gray'>Acknowledgments </font>==
-Funded primarily by DOE BES Award #DE-SCOO02334 (PC) and with support from NSF NSEC #EEC-0117770, 06465470 (RMH). 
+Funded primarily by DOE BES Award #DE-SCOO02334 (PC) and with additional support from NSF NSEC #EEC-0117770, 06465470 (RMH). 
 
 ==<font color='gray'> More Details </font>==
 
